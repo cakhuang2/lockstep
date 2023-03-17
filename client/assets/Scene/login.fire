@@ -3312,7 +3312,7 @@
       "width": 960,
       "height": 640
     },
-    "_fitWidth": false,
+    "_fitWidth": true,
     "_fitHeight": true,
     "_id": "89njSjRJRJtLsEPcRTpkzo"
   },
@@ -3351,7 +3351,6 @@
       "__id__": 2
     },
     "_enabled": true,
-    "ip": "127.0.0.1",
     "moviePrefab": {
       "__uuid__": "5ab75406-95d0-4d7c-b72e-b2c5e118ce51"
     },
